@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  GK_02c.cpp
+c:\users\phenix\desktop\gk\gk_02c\gk_02c\gk_02c.cpp(37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\phenix\desktop\gk\gk_02c\gk_02c\gk_02c.cpp(38): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  GK_02c.vcxproj -> C:\Users\Phenix\Desktop\GK\GK_02c\Debug\GK_02c.exe

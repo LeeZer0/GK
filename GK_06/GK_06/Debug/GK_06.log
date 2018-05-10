@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  GK_06.cpp
+c:\users\phenix\desktop\gk\gk_06\gk_06\gk_06.cpp(261): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\phenix\desktop\gk\gk_06\gk_06\gk_06.cpp(266): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\phenix\desktop\gk\gk_06\gk_06\gk_06.cpp(327): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\phenix\desktop\gk\gk_06\gk_06\gk_06.cpp(329): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\phenix\desktop\gk\gk_06\gk_06\gk_06.cpp(395): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+c:\users\phenix\desktop\gk\gk_06\gk_06\gk_06.cpp(408): warning C4566: character represented by universal-character-name '\u015B' cannot be represented in the current code page (1252)
+  GK_06.vcxproj -> C:\Users\Phenix\Desktop\GK\GK_06\Debug\GK_06.exe

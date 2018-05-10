@@ -1,0 +1,8 @@
+﻿  GK_01z.cpp
+c:\users\phenix\desktop\gk\gk_01z\gk_01z\gk_01z.cpp(131): warning C4244: 'initializing': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\phenix\desktop\gk\gk_01z\gk_01z\gk_01z.cpp(162): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\phenix\desktop\gk\gk_01z\gk_01z\gk_01z.cpp(161): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\phenix\desktop\gk\gk_01z\gk_01z\gk_01z.cpp(219): warning C4244: '=': conversion from 'GLsizei' to 'GLfloat', possible loss of data
+c:\users\phenix\desktop\gk\gk_01z\gk_01z\gk_01z.cpp(225): warning C4244: '=': conversion from 'GLsizei' to 'GLfloat', possible loss of data
+c:\users\phenix\desktop\gk\gk_01z\gk_01z\gk_01z.cpp(274): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GK_01z.vcxproj -> C:\Users\Phenix\Desktop\GK\GK_01z\Debug\GK_01z.exe
